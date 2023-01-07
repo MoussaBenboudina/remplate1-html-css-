@@ -69,7 +69,7 @@ header .linkes ul{
     position: fixed;
     top: 0;
     right: -60%;
-    background: linear-gradient(45deg,var(--main-color),rgba(0,0,0,0.9),var(--main-color));
+    background: linear-gradient(45deg,var(--main-color),rgba(0,0,0,1),var(--main-color));
     z-index: 12;
   
     padding-top: 40px;
