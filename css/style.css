@@ -70,7 +70,7 @@ header .linkes ul{
     top: 0;
     right: -60%;
     background: linear-gradient(45deg,var(--main-color),rgba(0,0,0,1),var(--main-color));
-    z-index: 12;
+    z-index: 1000;
   
     padding-top: 40px;
     width: 25%;
@@ -456,7 +456,7 @@ margin: 4px auto 0;
 }
 #metus h1{
     position: relative;
-    z-index: 20;
+    z-index: 2;
 }
 #metus .conntact{
     display: flex;
@@ -508,7 +508,7 @@ margin: 4px auto 0;
     margin-top: -10px;}
     .img-bg{
         position: absolute;
-        z-index: 4;
+        z-index: 1;
        top: 50%;
        left: 50%;
        transform: translate(-50%,-50%);
